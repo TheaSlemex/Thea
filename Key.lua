@@ -1,0 +1,3 @@
+ACCESS = {
+    ["AMPOU"] = 1
+}
